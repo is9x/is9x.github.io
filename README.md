@@ -42,12 +42,22 @@ This repo is your ultimate guide on getting first discoveries on Infinite Craft!
 🪨 Sandalwood + ☃️ Snowman = 🎅 Santa Claus<br>
 🤖 Robot + 🎅 Santa Claus = 🤖 Robo Santa<br>
 
-**That was the heavy work.**
+**That was the heavy work.** <br>
 _Now, make a Hot Air Balloon_
 🔥 Fire	+ 💧 Water	= 💨 Steam<br>
 🌎 Earth	+ 💧 Water	= 🌱 Plant<br>
 💨 Wind	+ 🌱 Plant	= 🌼 Dandelion<br>
 💨 Steam	+ 🌼 Dandelion Patch	= 🎈 Hot Air Balloon<br>
+**Last step!** <br>
+_Now that you have a Hot Air Balloon, you can make Terminator 2!_ <br>
+🎈 Hot Air Balloon + 🤖 Terminator = 🤖 Terminator 2<br>
+**This part gets complicated!** <br>
 
-**Last step!**
-_Now that you have a Hot Air Balloon, you can make Terminator 2!_
+🤖 Terminator + 🤖 Terminator 2 = 🤖 Terminator 3 <br>
+🤖 Terminator 3 - 🤖 Terminator 4 + 🤖 Terminator 3 = 🤖 Terminator 5 <br>
+🤖 Terminator 5 - 🤖 Terminator 5 + 🤖 Terminator 4 = 🤖 Terminator 6 <br>
+🤖 Terminator 6 - 🤖 Terminator 6 + 🤖 Terminator 5 = 🤖 Terminator 7 <br>
+🤖 Terminator 7 - 🤖 Terminator 7 + 🤖 Terminator 2 = 🤖 Terminator 9 <br>
+🤖 Terminator 9 - 🤖 Terminator 9 + 🤖 Terminator 6 = 🤖 Terminator 15 <br>
+🤖 Terminator 9 + 🤖 Terminator 15 = 🤖 Terminator 24 <br>
+🤖 Terminator 24 - 🤖 Terminator 24 + 🤖 Terminator 15 = 🤖 Terminator 39
