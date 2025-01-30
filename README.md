@@ -41,3 +41,13 @@ This repo is your ultimate guide on getting first discoveries on Infinite Craft!
 🌨️ Avalanche + 🕯️ Incense = ☃️ Snowman<br>
 🪨 Sandalwood + ☃️ Snowman = 🎅 Santa Claus<br>
 🤖 Robot + 🎅 Santa Claus = 🤖 Robo Santa<br>
+
+**That was the heavy work.**
+_Now, make a Hot Air Balloon_
+🔥 Fire	+ 💧 Water	= 💨 Steam<br>
+🌎 Earth	+ 💧 Water	= 🌱 Plant<br>
+💨 Wind	+ 🌱 Plant	= 🌼 Dandelion<br>
+💨 Steam	+ 🌼 Dandelion Patch	= 🎈 Hot Air Balloon<br>
+
+**Last step!**
+_Now that you have a Hot Air Balloon, you can make Terminator 2!_
