@@ -81,5 +81,11 @@ Repeat this until you get a first discovery, and combine the first discoveries w
 <br>
 Boom.
 <br>
-Your infinite First Discoveries are complete.
-<iframe src="https://google.com"></iframe>
+Your infinite First Discoveries are complete.<br>
+Watch the final result here:
+
+
+
+https://github.com/user-attachments/assets/abe1f851-c976-45c2-80c5-d4d3968a49d3
+
+
