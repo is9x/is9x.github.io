@@ -62,4 +62,4 @@ _Now that you have a Hot Air Balloon, you can make Terminator 2!_ <br>
 🤖 Terminator 9 + 🤖 Terminator 15 = 🤖 Terminator 24 <br>
 🤖 Terminator 24 + 🤖 Terminator 15 = 🤖 Terminator 39 <br>
 
-Now, drag '''🤖 Robo Santa''' over to '''🤖 Terminator 39'''
+Now, drag ```🤖 Robo Santa``` over to ```🤖 Terminator 39```
