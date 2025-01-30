@@ -54,10 +54,12 @@ _Now that you have a Hot Air Balloon, you can make Terminator 2!_ <br>
 **This part gets complicated!** <br>
 
 🤖 Terminator + 🤖 Terminator 2 = 🤖 Terminator 3 <br>
-🤖 Terminator 3 + 🤖 Terminator 4 + 🤖 Terminator 3 = 🤖 Terminator 5 <br>
-🤖 Terminator 5 + 🤖 Terminator 5 + 🤖 Terminator 4 = 🤖 Terminator 6 <br>
-🤖 Terminator 6 + 🤖 Terminator 6 + 🤖 Terminator 5 = 🤖 Terminator 7 <br>
-🤖 Terminator 7 + 🤖 Terminator 7 + 🤖 Terminator 2 = 🤖 Terminator 9 <br>
-🤖 Terminator 9 + 🤖 Terminator 9 + 🤖 Terminator 6 = 🤖 Terminator 15 <br>
+🤖 Terminator 3 + 🤖 Terminator 4 = 🤖 Terminator 5 <br>
+🤖 Terminator 5 + 🤖 Terminator 4 = 🤖 Terminator 6 <br>
+🤖 Terminator 6 + 🤖 Terminator 5 = 🤖 Terminator 7 <br>
+🤖 Terminator 7 + 🤖 Terminator 2 = 🤖 Terminator 9 <br>
+🤖 Terminator 9 + 🤖 Terminator 6 = 🤖 Terminator 15 <br>
 🤖 Terminator 9 + 🤖 Terminator 15 = 🤖 Terminator 24 <br>
-🤖 Terminator 24 + 🤖 Terminator 24 + 🤖 Terminator 15 = 🤖 Terminator 39
+🤖 Terminator 24 + 🤖 Terminator 15 = 🤖 Terminator 39 <br>
+
+Now, drag '''🤖 Robo Santa''' over to '''🤖 Terminator 39'''
