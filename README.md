@@ -7,37 +7,37 @@ This repo is your ultimate guide on getting first discoveries on Infinite Craft!
 - [ ] Get a new first discovery
 - [ ] Master first discoveries 🥷
 ## Your first discovery
-💧 Water + 💧 Water = 🌊 Lake
-🌎 Earth + 🌎 Earth = 🏔️ Mountain
-🌎 Earth + 💧 Water = 🌱 Plant
-🌫️ Dust + 🌱 Plant = 🌱 Pollen
-🌎 Earth + 🔥 Fire = 🌋 Lava
-🌎 Earth + 🌋 Lava = 🪨 Stone
-🌱 Pollen + 🪨 Stone = 🌾 Amber
-🌊 Lake + 🏔️ Mountain = 🏞️ Fjord
-🌎 Earth + 💨 Wind = 🌫️ Dust
-🌫️ Dust + 💨 Steam = ☁️ Cloud
-🔥 Fire + 💧 Water = 💨 Steam
-🔥 Fire + 💨 Steam = 🚗 Engine
-☁️ Cloud + 🚗 Engine = ✈️ Jet
-🏞️ Fjord + ✈️ Jet = 🥊 Fighter
-🌾 Amber + 🥊 Fighter = 🤖 Terminator
+💧 Water + 💧 Water = 🌊 Lake<br>
+🌎 Earth + 🌎 Earth = 🏔️ Mountain<br>
+🌎 Earth + 💧 Water = 🌱 Plant<br>
+🌫️ Dust + 🌱 Plant = 🌱 Pollen<br>
+🌎 Earth + 🔥 Fire = 🌋 Lava<br>
+🌎 Earth + 🌋 Lava = 🪨 Stone<br>
+🌱 Pollen + 🪨 Stone = 🌾 Amber<br>
+🌊 Lake + 🏔️ Mountain = 🏞️ Fjord<br>
+🌎 Earth + 💨 Wind = 🌫️ Dust<br>
+🌫️ Dust + 💨 Steam = ☁️ Cloud<br>
+🔥 Fire + 💧 Water = 💨 Steam<br>
+🔥 Fire + 💨 Steam = 🚗 Engine<br>
+☁️ Cloud + 🚗 Engine = ✈️ Jet<br>
+🏞️ Fjord + ✈️ Jet = 🥊 Fighter<br>
+🌾 Amber + 🥊 Fighter = 🤖 Terminator<br>
 
-_Now that you have Terminator, you can begin the process of making your first discovery._
+**Now that you have Terminator, you can begin the process of making your first discovery.**
 
-🔥 Fire + 💧 Water = 💨 Steam
-🌎 Earth + 🌫️ Dust = 🪐 Planet
-💨 Steam + 🪐 Planet = 🕯️ Steampunk
-🌫️ Dust + 🕯️ Steampunk = 🤖 Robot
-🌎 Earth + 💨 Wind = 🌫️ Dust
-💨 Wind + 💨 Wind = 🌪️ Tornado
-🌫️ Dust + 🌪️ Tornado = 🌪️ Dust Storm
-🌪️ Dust Storm + 🕯️ Incense = 🪨 Sandalwood
-🌎 Earth + 🌎 Earth = 🏔️ Mountain
-💨 Wind + 🏔️ Mountain = 🌨️ Avalanche
-🌎 Earth + 💧 Water = 🌱 Plant
-🔥 Fire + 💨 Wind = 💨 Smoke
-🌱 Plant + 💨 Smoke = 🕯️ Incense
-🌨️ Avalanche + 🕯️ Incense = ☃️ Snowman
-🪨 Sandalwood + ☃️ Snowman = 🎅 Santa Claus
-🤖 Robot + 🎅 Santa Claus = 🤖 Robo Santa
+🔥 Fire + 💧 Water = 💨 Steam<br>
+🌎 Earth + 🌫️ Dust = 🪐 Planet<br>
+💨 Steam + 🪐 Planet = 🕯️ Steampunk<br>
+🌫️ Dust + 🕯️ Steampunk = 🤖 Robot<br>
+🌎 Earth + 💨 Wind = 🌫️ Dust<br>
+💨 Wind + 💨 Wind = 🌪️ Tornado<br>
+🌫️ Dust + 🌪️ Tornado = 🌪️ Dust Storm<br>
+🌪️ Dust Storm + 🕯️ Incense = 🪨 Sandalwood<br>
+🌎 Earth + 🌎 Earth = 🏔️ Mountain<br>
+💨 Wind + 🏔️ Mountain = 🌨️ Avalanche<br>
+🌎 Earth + 💧 Water = 🌱 Plant<br>
+🔥 Fire + 💨 Wind = 💨 Smoke<br>
+🌱 Plant + 💨 Smoke = 🕯️ Incense<br>
+🌨️ Avalanche + 🕯️ Incense = ☃️ Snowman<br>
+🪨 Sandalwood + ☃️ Snowman = 🎅 Santa Claus<br>
+🤖 Robot + 🎅 Santa Claus = 🤖 Robo Santa<br>
