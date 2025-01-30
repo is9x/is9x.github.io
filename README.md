@@ -63,4 +63,23 @@ _Now that you have a ```🎈 Hot Air Balloon```, you can make ```🤖 Terminator
 ```🤖 Terminator 9``` + ```🤖 Terminator 15``` = ```🤖 Terminator 24```  
 ```🤖 Terminator 24``` + ```🤖 Terminator 15``` = ```🤖 Terminator 39```  
 
-Now, drag ```🤖 Robo Santa``` over to ```🤖 Terminator 39```
+<p>
+Now, you need to combine Terminator 39 with Terminator 39, to make Terminator 40.
+<p>
+Combine Terminator 40 with Terminator 40 to make Terminator 80.
+<p>
+Search up Terminator in Infinite Craft (right of screen), and combine random Terminators until your Terminator is over 1000, <br>
+then drag your Terminator over your Robo Santa. 
+<p>
+If it worked, you should have Robo Santa (your terminator number)
+<br>
+So if I dragged Terminator 3811 on top of Robo Santa, I would have a ```Robo Santa 3811```.
+<br>
+If it isn't a first discovery, keep duplicated and dragging your ```Robo Santa (number)```s on top of eachother, duplicating the number.
+<br>
+Repeat this until you get a first discovery, and combine the first discoveries with the first discoveries to make more first discoveries!
+<br>
+Boom.
+<br>
+Your infinite First Discoveries are complete.
+<iframe src="https://google.com"></iframe>
